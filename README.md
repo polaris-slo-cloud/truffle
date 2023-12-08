@@ -1,3 +1,7 @@
-# Truffle: a Serverless proxy for inter-function communication 
+# Truffle: Efficient Data Passing for Serverless Functions 
 
-WIP
+<p align="center">
+  <img src="images/truffle_architecture.png">
+</p>
+
+Truffle has a modular architecture that enables Serverless functions to efficiently pass and fetch data by leveraging functions cold starts.  
